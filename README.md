@@ -1,4 +1,5 @@
-#Gama-Admin-app
+#**Gama-Admin-app**
+
 a React admin panel dashboard using React Hooks, Routers and functional & design with Material UI, chart, and CSS from scratch.
 ![home](https://user-images.githubusercontent.com/72937759/147499712-11916018-b97d-4542-b676-fb0a49586a95.png)
 ![ProductPage](https://user-images.githubusercontent.com/72937759/147499746-da1f8648-a52b-4830-8f1e-a51e1c273d45.png)
